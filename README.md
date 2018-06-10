@@ -3,7 +3,8 @@
 
 ## 前沿
 在我技术成长的道路上，离不开广大IT工作者的无私开源，我非常感谢各位大佬的教学资源。
-我目前处在用别人的工具初级前端阶段，只能以自己的理解模仿别人的项目。
+我目前处在初级前端阶段，只能以自己的理解模仿别人的项目。
+
 本项目特别感谢'code_mcx'的详细教程，链接地址：
 <https://juejin.im/post/5a367e996fb9a0450f22050f>
 
@@ -30,9 +31,11 @@
 ```
 
 ## 2-使用路由react-router
-BrowserRouter 和 HashRouter 的区别
+BrowserRouter 和 HashRouter 的区别:
 https://blog.csdn.net/aaa333qwe/article/details/79557044
+
 https://www.cnblogs.com/liuna/p/6137970.html
+
 https://github.com/ReactTraining/react-router/blob/v3/docs/guides/Histories.md 
 ```
 1. yarn add react-router-dom (后面的依赖必需用yarn,segmentdefault)
